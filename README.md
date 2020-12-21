@@ -1,6 +1,5 @@
 #Command Line Todo Python Program
-
--> Execute run.sh file 
+###Execute run.sh file###
 
 * ./todo                 # Show Usage
 * ./todo add 'todo item" # Add a new todo
